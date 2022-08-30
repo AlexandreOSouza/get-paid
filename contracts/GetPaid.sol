@@ -11,8 +11,8 @@ contract GetPaid {
 
     address contractAddress;
 
-    constructor(address _contractAddress) {
-        contractAddress = _contractAddress;
+    constructor() {
+        contractAddress = payable(msg.sender);
     }
 
     event Sended(

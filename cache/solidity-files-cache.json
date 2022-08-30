@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/alexandredeoliveira/Documents/personal_projects/get-paid/contracts/GetPaid.sol": {
-      "lastModificationDate": 1661813797080,
-      "contentHash": "787b57d2984e8ef4b5726fa3919bb485",
+      "lastModificationDate": 1661816350383,
+      "contentHash": "3d486bff0d9270da4566326a7e5c31eb",
       "sourceName": "contracts/GetPaid.sol",
       "solcConfig": {
         "version": "0.8.9",
